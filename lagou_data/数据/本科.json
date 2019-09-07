@@ -1,0 +1,2252 @@
+[
+    {
+        "companyName": "OPPO",
+        "salary": "15k-30k",
+        "position": "深圳·后海"
+    },
+    {
+        "companyName": "罗辑思维",
+        "salary": "25k-50k",
+        "position": "北京·大望路"
+    },
+    {
+        "companyName": "大寰机器人",
+        "salary": "10k-16k",
+        "position": "深圳·南山区"
+    },
+    {
+        "companyName": "汇游科技",
+        "salary": "15k-20k",
+        "position": "北京·北苑"
+    },
+    {
+        "companyName": "ATA",
+        "salary": "15k-25k",
+        "position": "上海·张江"
+    },
+    {
+        "companyName": "妙印云",
+        "salary": "14k-22k",
+        "position": "深圳·南山区"
+    },
+    {
+        "companyName": "ZingFront智线",
+        "salary": "15k-25k",
+        "position": "北京·甜水园"
+    },
+    {
+        "companyName": "NaturLing教育科技",
+        "salary": "15k-25k",
+        "position": "苏州·工业园…"
+    },
+    {
+        "companyName": "奇安信集团",
+        "salary": "25k-45k",
+        "position": "北京·朝阳区"
+    },
+    {
+        "companyName": "联元智能科技",
+        "salary": "12k-20k",
+        "position": "上海·曹杨"
+    },
+    {
+        "companyName": "AfterShip",
+        "salary": "25k-35k",
+        "position": "深圳·南山区"
+    },
+    {
+        "companyName": "AKULAKU",
+        "salary": "15k-30k",
+        "position": "深圳·深圳湾"
+    },
+    {
+        "companyName": "FlashTrip",
+        "salary": "15k-25k",
+        "position": "北京·朝阳区"
+    },
+    {
+        "companyName": "亿欧",
+        "salary": "15k-25k",
+        "position": "北京·三元桥"
+    },
+    {
+        "companyName": "果壳链",
+        "salary": "15k-20k",
+        "position": "成都·高新区"
+    },
+    {
+        "companyName": "ZingFront智线",
+        "salary": "15k-25k",
+        "position": "北京·甜水园"
+    },
+    {
+        "companyName": "平安金服",
+        "salary": "15k-30k",
+        "position": "上海·洋泾"
+    },
+    {
+        "companyName": "KLOOK 客路旅行",
+        "salary": "15k-30k",
+        "position": "深圳·车公庙"
+    },
+    {
+        "companyName": "瓦戈智慧",
+        "salary": "14k-28k",
+        "position": "上海·张江"
+    },
+    {
+        "companyName": "平安科技",
+        "salary": "15k-30k",
+        "position": "北京·朝阳区"
+    },
+    {
+        "companyName": "达观数据",
+        "salary": "20k-30k",
+        "position": "深圳·科技园"
+    },
+    {
+        "companyName": "希望金科",
+        "salary": "15k-25k",
+        "position": "成都·高新区"
+    },
+    {
+        "companyName": "时光小屋",
+        "salary": "15k-25k",
+        "position": "武汉·洪山区"
+    },
+    {
+        "companyName": "弘量科技（深圳）有限公司",
+        "salary": "15k-30k",
+        "position": "深圳·南山区"
+    },
+    {
+        "companyName": "NextTao 互道信息",
+        "salary": "13k-20k",
+        "position": "上海·张江"
+    },
+    {
+        "companyName": "四川弘和集团",
+        "salary": "10k-15k",
+        "position": "成都·机投桥"
+    },
+    {
+        "companyName": "钱方好近",
+        "salary": "13k-26k",
+        "position": "北京·望京"
+    },
+    {
+        "companyName": "硅基智能",
+        "salary": "12k-20k",
+        "position": "南京·宁南"
+    },
+    {
+        "companyName": "DAOCLOUD",
+        "salary": "15k-30k",
+        "position": "上海·五角场"
+    },
+    {
+        "companyName": "乐易网络",
+        "salary": "10k-20k",
+        "position": "深圳·南山区"
+    },
+    {
+        "companyName": "ZingFront智线",
+        "salary": "15k-25k",
+        "position": "北京·甜水园"
+    },
+    {
+        "companyName": "达观数据",
+        "salary": "20k-30k",
+        "position": "北京·中关村"
+    },
+    {
+        "companyName": "DAOCLOUD",
+        "salary": "15k-30k",
+        "position": "上海·五角场"
+    },
+    {
+        "companyName": "乐易网络",
+        "salary": "10k-20k",
+        "position": "深圳·南山区"
+    },
+    {
+        "companyName": "斯干",
+        "salary": "15k-25k",
+        "position": "上海·徐汇区"
+    },
+    {
+        "companyName": "钱方好近",
+        "salary": "12k-20k",
+        "position": "成都·华阳"
+    },
+    {
+        "companyName": "喜茶",
+        "salary": "15k-25k",
+        "position": "深圳·深圳湾"
+    },
+    {
+        "companyName": "CloudChef",
+        "salary": "18k-36k",
+        "position": "上海·杨浦区"
+    },
+    {
+        "companyName": "TestBird",
+        "salary": "8k-15k",
+        "position": "成都·高新区"
+    },
+    {
+        "companyName": "南京优玛软件科技有限公司",
+        "salary": "12k-16k",
+        "position": "北京·西山"
+    },
+    {
+        "companyName": "思而科",
+        "salary": "8k-15k",
+        "position": "成都·武侯区"
+    },
+    {
+        "companyName": "中电广通",
+        "salary": "10k-20k",
+        "position": "北京·朝阳区"
+    },
+    {
+        "companyName": "Aibee",
+        "salary": "20k-40k",
+        "position": "北京·西北旺"
+    },
+    {
+        "companyName": "金证优智",
+        "salary": "15k-25k",
+        "position": "北京·魏公村"
+    },
+    {
+        "companyName": "PALMAX",
+        "salary": "10k-20k",
+        "position": "成都·高新区"
+    },
+    {
+        "companyName": "ZingFront智线",
+        "salary": "15k-25k",
+        "position": "北京·甜水园"
+    },
+    {
+        "companyName": "钱方好近",
+        "salary": "15k-25k",
+        "position": "深圳·沙嘴"
+    },
+    {
+        "companyName": "逍遥志科技",
+        "salary": "18k-25k",
+        "position": "北京·朝外"
+    },
+    {
+        "companyName": "竞网",
+        "salary": "10k-13k",
+        "position": "长沙·岳麓区"
+    },
+    {
+        "companyName": "盛迪嘉支付",
+        "salary": "15k-20k",
+        "position": "深圳·科技园"
+    },
+    {
+        "companyName": "流体网络",
+        "salary": "15k-30k",
+        "position": "北京·朝阳区"
+    },
+    {
+        "companyName": "中科物安",
+        "salary": "15k-25k",
+        "position": "北京·四季青"
+    },
+    {
+        "companyName": "水象科技",
+        "salary": "20k-30k",
+        "position": "上海·闵行区"
+    },
+    {
+        "companyName": "Flow++",
+        "salary": "15k-25k",
+        "position": "北京·西北旺"
+    },
+    {
+        "companyName": "糗事百科",
+        "salary": "15k-30k",
+        "position": "深圳·科技园"
+    },
+    {
+        "companyName": "大河网",
+        "salary": "5k-10k",
+        "position": "郑州·中原区"
+    },
+    {
+        "companyName": "北京云族佳科技",
+        "salary": "7k-12k",
+        "position": "广州·天河区"
+    },
+    {
+        "companyName": "商汤科技",
+        "salary": "20k-40k",
+        "position": "深圳·南山区"
+    },
+    {
+        "companyName": "中寰卫星",
+        "salary": "15k-30k",
+        "position": "北京·西北旺"
+    },
+    {
+        "companyName": "飞书互动",
+        "salary": "15k-25k",
+        "position": "上海·长宁区"
+    },
+    {
+        "companyName": "慧安金科",
+        "salary": "25k-45k",
+        "position": "北京·学院路"
+    },
+    {
+        "companyName": "币信",
+        "salary": "18k-35k",
+        "position": "北京·中关村"
+    },
+    {
+        "companyName": "影谱科技",
+        "salary": "15k-30k",
+        "position": "北京·东直门"
+    },
+    {
+        "companyName": "艾耕科技",
+        "salary": "15k-25k",
+        "position": "杭州·西溪"
+    },
+    {
+        "companyName": "平安科技",
+        "salary": "12k-20k",
+        "position": "上海·东外滩"
+    },
+    {
+        "companyName": "华云数据",
+        "salary": "18k-28k",
+        "position": "上海·复旦大…"
+    },
+    {
+        "companyName": "Dilato",
+        "salary": "9k-15k",
+        "position": "南京·雨花台…"
+    },
+    {
+        "companyName": "零壹互联",
+        "salary": "15k-25k",
+        "position": "深圳·龙华新…"
+    },
+    {
+        "companyName": "腾讯",
+        "salary": "20k-40k",
+        "position": "深圳·科技园"
+    },
+    {
+        "companyName": "智言科技",
+        "salary": "10k-20k",
+        "position": "深圳·南山区"
+    },
+    {
+        "companyName": "阿里巴巴-高德",
+        "salary": "25k-50k",
+        "position": "北京·望京"
+    },
+    {
+        "companyName": "第三石科技",
+        "salary": "15k-30k",
+        "position": "北京·朝阳区"
+    },
+    {
+        "companyName": "特赞|Tezign",
+        "salary": "25k-40k",
+        "position": "上海·徐汇区"
+    },
+    {
+        "companyName": "易宝软件科技（南京）有限公司",
+        "salary": "8k-16k",
+        "position": "成都·郫县"
+    },
+    {
+        "companyName": "创世云",
+        "salary": "15k-30k",
+        "position": "厦门·思明区"
+    },
+    {
+        "companyName": "金蝶",
+        "salary": "10k-15k",
+        "position": "深圳·科技园"
+    },
+    {
+        "companyName": "上海驰勤",
+        "salary": "10k-16k",
+        "position": "上海·新江湾…"
+    },
+    {
+        "companyName": "微壳",
+        "salary": "25k-40k",
+        "position": "北京·亚运村"
+    },
+    {
+        "companyName": "Dilato",
+        "salary": "9k-16k",
+        "position": "南京·雨花台…"
+    },
+    {
+        "companyName": "问卷网@爱调研",
+        "salary": "10k-20k",
+        "position": "苏州·独墅湖"
+    },
+    {
+        "companyName": "深圳市丰巢科技有限公司",
+        "salary": "10k-20k",
+        "position": "武汉·东湖新…"
+    },
+    {
+        "companyName": "旷视MEGVII",
+        "salary": "25k-50k",
+        "position": "北京·中关村"
+    },
+    {
+        "companyName": "雷速体育",
+        "salary": "15k-25k",
+        "position": "上海·虹口区"
+    },
+    {
+        "companyName": "狸米科技",
+        "salary": "20k-30k",
+        "position": "北京·北苑"
+    },
+    {
+        "companyName": "NewsJet",
+        "salary": "25k-45k",
+        "position": "北京·知春路"
+    },
+    {
+        "companyName": "北京超盟数据科技有限公司",
+        "salary": "15k-25k",
+        "position": "北京·亮马桥"
+    },
+    {
+        "companyName": "V8实拍",
+        "salary": "25k-50k",
+        "position": "北京·朝阳区"
+    },
+    {
+        "companyName": "达观数据",
+        "salary": "18k-25k",
+        "position": "上海·张江"
+    },
+    {
+        "companyName": "省省回头车",
+        "salary": "15k-25k",
+        "position": "广州·东圃"
+    },
+    {
+        "companyName": "点融",
+        "salary": "20k-40k",
+        "position": "上海·五里桥"
+    },
+    {
+        "companyName": "格灵深瞳",
+        "salary": "20k-40k",
+        "position": "北京·西三旗"
+    },
+    {
+        "companyName": "NextTao 互道信息",
+        "salary": "18k-30k",
+        "position": "上海·张江"
+    },
+    {
+        "companyName": "硅基智能",
+        "salary": "20k-35k",
+        "position": "上海·梅园"
+    },
+    {
+        "companyName": "功夫医生",
+        "salary": "15k-22k",
+        "position": "武汉·中北路"
+    },
+    {
+        "companyName": "掌阅",
+        "salary": "22k-35k",
+        "position": "北京·朝阳区"
+    },
+    {
+        "companyName": "PALMAX",
+        "salary": "13k-22k",
+        "position": "成都·高新区"
+    },
+    {
+        "companyName": "Seedlink",
+        "salary": "20k-35k",
+        "position": "上海·静安寺"
+    },
+    {
+        "companyName": "泉涌信息",
+        "salary": "15k-30k",
+        "position": "广州·天河区"
+    },
+    {
+        "companyName": "高新网络科技",
+        "salary": "20k-30k",
+        "position": "长沙·岳麓区"
+    },
+    {
+        "companyName": "万科物业",
+        "salary": "15k-30k",
+        "position": "深圳·上梅林"
+    },
+    {
+        "companyName": "数旦信息",
+        "salary": "15k-30k",
+        "position": "上海·漕河泾"
+    },
+    {
+        "companyName": "摩尔妈妈",
+        "salary": "30k-40k",
+        "position": "北京·亮马桥"
+    },
+    {
+        "companyName": "明源云",
+        "salary": "15k-30k",
+        "position": "深圳·深圳湾"
+    },
+    {
+        "companyName": "深圳华秋电子有限公司",
+        "salary": "15k-18k",
+        "position": "深圳·上梅林"
+    },
+    {
+        "companyName": "易路",
+        "salary": "15k-25k",
+        "position": "上海·虹桥"
+    },
+    {
+        "companyName": "华扬联众全国数据技术中心（HDTC）",
+        "salary": "10k-20k",
+        "position": "南京·上海路"
+    },
+    {
+        "companyName": "云杉智达科技",
+        "salary": "20k-35k",
+        "position": "北京·朝外"
+    },
+    {
+        "companyName": "小步网络",
+        "salary": "15k-30k",
+        "position": "深圳·西乡"
+    },
+    {
+        "companyName": "中科天玑",
+        "salary": "13k-23k",
+        "position": "北京·金融街"
+    },
+    {
+        "companyName": "AAM中国",
+        "salary": "15k-26k",
+        "position": "广州·荔湾区"
+    },
+    {
+        "companyName": "好未来",
+        "salary": "18k-30k",
+        "position": "北京·北京大…"
+    },
+    {
+        "companyName": "立新出行",
+        "salary": "25k-35k",
+        "position": "深圳·新安"
+    },
+    {
+        "companyName": "UCloud",
+        "salary": "15k-30k",
+        "position": "上海·杨浦区"
+    },
+    {
+        "companyName": "Castbox",
+        "salary": "20k-40k",
+        "position": "北京·望京"
+    },
+    {
+        "companyName": "腾讯",
+        "salary": "15k-30k",
+        "position": "深圳·科技园"
+    },
+    {
+        "companyName": "威胁猎人",
+        "salary": "17k-25k",
+        "position": "深圳·南山区"
+    },
+    {
+        "companyName": "趣头条",
+        "salary": "15k-30k",
+        "position": "上海·张江"
+    },
+    {
+        "companyName": "FreeWheel",
+        "salary": "27k-34k",
+        "position": "北京·三元桥"
+    },
+    {
+        "companyName": "茄子快传",
+        "salary": "25k-35k",
+        "position": "北京·海淀区"
+    },
+    {
+        "companyName": "北明软件",
+        "salary": "10k-18k",
+        "position": "南京·雨花台…"
+    },
+    {
+        "companyName": "Gridsum 国双",
+        "salary": "20k-40k",
+        "position": "深圳·莲花二…"
+    },
+    {
+        "companyName": "一亩田",
+        "salary": "15k-30k",
+        "position": "北京·学院路"
+    },
+    {
+        "companyName": "商汤科技",
+        "salary": "20k-40k",
+        "position": "深圳·深圳湾"
+    },
+    {
+        "companyName": "猫头鹰团队",
+        "salary": "15k-25k",
+        "position": "武汉·江夏区"
+    },
+    {
+        "companyName": "财新传媒",
+        "salary": "10k-20k",
+        "position": "北京·建外大…"
+    },
+    {
+        "companyName": "墨云科技",
+        "salary": "15k-30k",
+        "position": "南京·龙江"
+    },
+    {
+        "companyName": "慧安金科",
+        "salary": "25k-45k",
+        "position": "北京·学院路"
+    },
+    {
+        "companyName": "混沌大学",
+        "salary": "20k-40k",
+        "position": "北京·海淀区"
+    },
+    {
+        "companyName": "Xmov",
+        "salary": "15k-30k",
+        "position": "上海·徐汇区"
+    },
+    {
+        "companyName": "汽车之家",
+        "salary": "15k-25k",
+        "position": "北京·中关村"
+    },
+    {
+        "companyName": "百度",
+        "salary": "20k-40k",
+        "position": "北京·西北旺"
+    },
+    {
+        "companyName": "联通大数据",
+        "salary": "15k-25k",
+        "position": "北京·雍和宫"
+    },
+    {
+        "companyName": "南京网眼软件有限公司",
+        "salary": "10k-20k",
+        "position": "南京·雨花台…"
+    },
+    {
+        "companyName": "小步网络",
+        "salary": "20k-30k",
+        "position": "深圳·西乡"
+    },
+    {
+        "companyName": "雷速体育",
+        "salary": "15k-25k",
+        "position": "上海·虹口区"
+    },
+    {
+        "companyName": "星垂智能",
+        "salary": "15k-25k",
+        "position": "西安·高新技…"
+    },
+    {
+        "companyName": "有光科技",
+        "salary": "15k-25k",
+        "position": "深圳·深圳湾"
+    },
+    {
+        "companyName": "微诺",
+        "salary": "15k-25k",
+        "position": "深圳·新安"
+    },
+    {
+        "companyName": "Gekko.ai",
+        "salary": "15k-30k",
+        "position": "深圳·大冲"
+    },
+    {
+        "companyName": "亿可能源",
+        "salary": "18k-30k",
+        "position": "上海·复旦大…"
+    },
+    {
+        "companyName": "通力互联",
+        "salary": "13k-26k",
+        "position": "东莞·东莞市…"
+    },
+    {
+        "companyName": "腾讯",
+        "salary": "30k-50k",
+        "position": "北京·学院路"
+    },
+    {
+        "companyName": "墨云科技",
+        "salary": "15k-30k",
+        "position": "北京·上地"
+    },
+    {
+        "companyName": "南京擎盾",
+        "salary": "8k-16k",
+        "position": "南京·安德门"
+    },
+    {
+        "companyName": "中睿天下",
+        "salary": "12k-18k",
+        "position": "北京·海淀区"
+    },
+    {
+        "companyName": "中非网",
+        "salary": "12k-18k",
+        "position": "成都·武侯区"
+    },
+    {
+        "companyName": "联元智能科技",
+        "salary": "15k-30k",
+        "position": "上海·曹杨"
+    },
+    {
+        "companyName": "雷速体育",
+        "salary": "15k-20k",
+        "position": "上海·虹口区"
+    },
+    {
+        "companyName": "合心科技",
+        "salary": "20k-35k",
+        "position": "北京·知春路"
+    },
+    {
+        "companyName": "汽车之家",
+        "salary": "15k-25k",
+        "position": "北京·中关村"
+    },
+    {
+        "companyName": "通力互联",
+        "salary": "12k-24k",
+        "position": "东莞·东莞市…"
+    },
+    {
+        "companyName": "微诺",
+        "salary": "15k-30k",
+        "position": "深圳·新安"
+    },
+    {
+        "companyName": "云鲸智能",
+        "salary": "15k-30k",
+        "position": "深圳·南山区"
+    },
+    {
+        "companyName": "拍拍贷",
+        "salary": "20k-30k",
+        "position": "上海·浦东新…"
+    },
+    {
+        "companyName": "汽车之家",
+        "salary": "20k-30k",
+        "position": "北京·海淀区"
+    },
+    {
+        "companyName": "迪睿科技",
+        "salary": "10k-20k",
+        "position": "福州·鼓楼区"
+    },
+    {
+        "companyName": "腾讯",
+        "salary": "25k-50k",
+        "position": "深圳·科技园"
+    },
+    {
+        "companyName": "字节跳动",
+        "salary": "30k-60k",
+        "position": "北京·海淀区"
+    },
+    {
+        "companyName": "iHandy",
+        "salary": "25k-50k",
+        "position": "北京·五道口"
+    },
+    {
+        "companyName": "海万科技",
+        "salary": "8k-15k",
+        "position": "上海·浦东新…"
+    },
+    {
+        "companyName": "东莞先知大数据有限公司",
+        "salary": "8k-15k",
+        "position": "东莞·东莞市…"
+    },
+    {
+        "companyName": "积云教育",
+        "salary": "15k-25k",
+        "position": "北京·马池口"
+    },
+    {
+        "companyName": "吉利汽车",
+        "salary": "10k-20k",
+        "position": "宁波·镇海区"
+    },
+    {
+        "companyName": "问卷网@爱调研",
+        "salary": "15k-30k",
+        "position": "上海·交通大…"
+    },
+    {
+        "companyName": "老虎集团",
+        "salary": "25k-35k",
+        "position": "北京·朝阳区"
+    },
+    {
+        "companyName": "通力互联",
+        "salary": "12k-20k",
+        "position": "东莞·东莞市…"
+    },
+    {
+        "companyName": "积云教育",
+        "salary": "20k-30k",
+        "position": "北京·马池口"
+    },
+    {
+        "companyName": "海万科技",
+        "salary": "14k-23k",
+        "position": "上海·陆家嘴"
+    },
+    {
+        "companyName": "字节跳动",
+        "salary": "25k-50k",
+        "position": "上海·黄浦区"
+    },
+    {
+        "companyName": "老虎集团",
+        "salary": "20k-35k",
+        "position": "北京·朝阳区"
+    },
+    {
+        "companyName": "上海中软华腾软件系统有限公司",
+        "salary": "10K-20K",
+        "position": "广州·天河城"
+    },
+    {
+        "companyName": "京东数字科技",
+        "salary": "18k-30k",
+        "position": "北京·大兴区"
+    },
+    {
+        "companyName": "我查查",
+        "salary": "15k-25k",
+        "position": "上海·张江"
+    },
+    {
+        "companyName": "iHandy",
+        "salary": "25k-50k",
+        "position": "北京·海淀区"
+    },
+    {
+        "companyName": "小米",
+        "salary": "15k-30k",
+        "position": "北京·清河"
+    },
+    {
+        "companyName": "拍拍贷",
+        "salary": "20k-30k",
+        "position": "上海·浦东新…"
+    },
+    {
+        "companyName": "豆包网",
+        "salary": "15k-25k",
+        "position": "北京·朝阳门"
+    },
+    {
+        "companyName": "海致",
+        "salary": "20k-30k",
+        "position": "北京·五道口"
+    },
+    {
+        "companyName": "思华科技",
+        "salary": "18K-35K",
+        "position": "上海·张江"
+    },
+    {
+        "companyName": "JAITech",
+        "salary": "18k-27k",
+        "position": "上海·静安寺"
+    },
+    {
+        "companyName": "海万科技",
+        "salary": "10k-20k",
+        "position": "深圳·新洲"
+    },
+    {
+        "companyName": "威廉欧奈尔中国",
+        "salary": "20k-35k",
+        "position": "上海·浦东新…"
+    },
+    {
+        "companyName": "上海迅傲信息科技股份有限公司",
+        "salary": "14k-20k",
+        "position": "上海·张江"
+    },
+    {
+        "companyName": "路行通",
+        "salary": "12k-20k",
+        "position": "成都·高新区"
+    },
+    {
+        "companyName": "客如云",
+        "salary": "15k-25k",
+        "position": "成都·高新区"
+    },
+    {
+        "companyName": "一起科技",
+        "salary": "25k-50k",
+        "position": "北京·望京"
+    },
+    {
+        "companyName": "安码科技",
+        "salary": "10k-20k",
+        "position": "北京·小西天"
+    },
+    {
+        "companyName": "智蓝",
+        "salary": "12k-17k",
+        "position": "北京·西二旗"
+    },
+    {
+        "companyName": "知乎",
+        "salary": "20k-30k",
+        "position": "北京·五道口"
+    },
+    {
+        "companyName": "水木创投",
+        "salary": "15k-22k",
+        "position": "北京·东城区"
+    },
+    {
+        "companyName": "宏鸿钥科技",
+        "salary": "25K-30K",
+        "position": "深圳·新安"
+    },
+    {
+        "companyName": "字节跳动",
+        "salary": "25k-40k",
+        "position": "南京·玄武区"
+    },
+    {
+        "companyName": "爱咔咔",
+        "salary": "18k-22k",
+        "position": "北京·西北旺"
+    },
+    {
+        "companyName": "海视科技",
+        "salary": "20k-40k",
+        "position": "北京·三元桥"
+    },
+    {
+        "companyName": "青云",
+        "salary": "12k-24k",
+        "position": "武汉·东湖新…"
+    },
+    {
+        "companyName": "海万科技",
+        "salary": "14k-18k",
+        "position": "上海·梅园"
+    },
+    {
+        "companyName": "智蓝",
+        "salary": "15k-25k",
+        "position": "北京·西北旺"
+    },
+    {
+        "companyName": "罗辑思维",
+        "salary": "25k-50k",
+        "position": "北京·朝阳区"
+    },
+    {
+        "companyName": "iHandy",
+        "salary": "25k-40k",
+        "position": "北京·海淀区"
+    },
+    {
+        "companyName": "百融云创",
+        "salary": "20k-30k",
+        "position": "北京·中关村"
+    },
+    {
+        "companyName": "木浪云",
+        "salary": "10k-15k",
+        "position": "深圳·南山区"
+    },
+    {
+        "companyName": "信永中和",
+        "salary": "15k-25k",
+        "position": "北京·东四十…"
+    },
+    {
+        "companyName": "普天",
+        "salary": "15k-25k",
+        "position": "大连·黄河路"
+    },
+    {
+        "companyName": "腾讯",
+        "salary": "20k-40k",
+        "position": "北京·学院路"
+    },
+    {
+        "companyName": "DATATOM",
+        "salary": "14k-22k",
+        "position": "成都·高新区"
+    },
+    {
+        "companyName": "天广汇通",
+        "salary": "10k-16k",
+        "position": "成都·华阳"
+    },
+    {
+        "companyName": "网易",
+        "salary": "20k-25k",
+        "position": "广州·天河区"
+    },
+    {
+        "companyName": "汽车超人",
+        "salary": "12k-20k",
+        "position": "杭州·西溪"
+    },
+    {
+        "companyName": "掌控",
+        "salary": "15k-30k",
+        "position": "北京·西二旗"
+    },
+    {
+        "companyName": "字节跳动",
+        "salary": "25k-40k",
+        "position": "上海·徐汇区"
+    },
+    {
+        "companyName": "海万科技",
+        "salary": "12k-18k",
+        "position": "上海·唐镇"
+    },
+    {
+        "companyName": "网宿科技",
+        "salary": "8k-15k",
+        "position": "厦门·思明区"
+    },
+    {
+        "companyName": "融360",
+        "salary": "28k-35k",
+        "position": "北京·中关村"
+    },
+    {
+        "companyName": "爱拍科技",
+        "salary": "10k-15k",
+        "position": "广州·棠下"
+    },
+    {
+        "companyName": "协鑫集团子公司",
+        "salary": "8k-12k",
+        "position": "西安·沣惠南…"
+    },
+    {
+        "companyName": "有芯电子",
+        "salary": "15k-25k",
+        "position": "深圳·上梅林"
+    },
+    {
+        "companyName": "SIPAI",
+        "salary": "9k-18k",
+        "position": "上海·漕河泾"
+    },
+    {
+        "companyName": "真融宝",
+        "salary": "30k-40k",
+        "position": "北京·西北旺"
+    },
+    {
+        "companyName": "LBE 科技",
+        "salary": "15k-30k",
+        "position": "北京·四惠"
+    },
+    {
+        "companyName": "回收宝",
+        "salary": "15k-22k",
+        "position": "深圳·南山区"
+    },
+    {
+        "companyName": "hynm",
+        "salary": "30k-40k",
+        "position": "北京·西北旺"
+    },
+    {
+        "companyName": "飞享数据",
+        "salary": "14k-28k",
+        "position": "杭州·滨江区"
+    },
+    {
+        "companyName": "搜狐集团",
+        "salary": "15k-30k",
+        "position": "北京·海淀区"
+    },
+    {
+        "companyName": "致趣广告",
+        "salary": "8k-10k",
+        "position": "北京·朝阳区"
+    },
+    {
+        "companyName": "Swie.io",
+        "salary": "12k-20k",
+        "position": "北京·海淀区"
+    },
+    {
+        "companyName": "海万科技",
+        "salary": "14k-19k",
+        "position": "上海·张江"
+    },
+    {
+        "companyName": "真融宝",
+        "salary": "25k-35k",
+        "position": "北京·西北旺"
+    },
+    {
+        "companyName": "融360",
+        "salary": "20k-35k",
+        "position": "北京·海淀区"
+    },
+    {
+        "companyName": "搜狐集团",
+        "salary": "20k-30k",
+        "position": "北京·中关村"
+    },
+    {
+        "companyName": "悦和",
+        "salary": "10k-20k",
+        "position": "北京·清河"
+    },
+    {
+        "companyName": "图玛深维",
+        "salary": "15k-25k",
+        "position": "北京·望京"
+    },
+    {
+        "companyName": "字节跳动",
+        "salary": "25k-50k",
+        "position": "上海·黄浦区"
+    },
+    {
+        "companyName": "钱咖",
+        "salary": "12k-18k",
+        "position": "上海·黄浦区"
+    },
+    {
+        "companyName": "中谷金科",
+        "salary": "15k-25k",
+        "position": "北京·通州区"
+    },
+    {
+        "companyName": "Each+",
+        "salary": "15k-25k",
+        "position": "上海·浦东新…"
+    },
+    {
+        "companyName": "宸睿科技",
+        "salary": "9k-16k",
+        "position": "深圳·科技园"
+    },
+    {
+        "companyName": "深圳市微赢世纪网络科技有限公司",
+        "salary": "18k-30k",
+        "position": "深圳·南油"
+    },
+    {
+        "companyName": "北京雷石公司",
+        "salary": "15k-30k",
+        "position": "北京·北苑"
+    },
+    {
+        "companyName": "知乎",
+        "salary": "20k-35k",
+        "position": "北京·五道口"
+    },
+    {
+        "companyName": "溪流科技",
+        "salary": "12k-24k",
+        "position": "北京·海淀区"
+    },
+    {
+        "companyName": "海万科技",
+        "salary": "13k-18k",
+        "position": "上海·陆家嘴"
+    },
+    {
+        "companyName": "知乎",
+        "salary": "20k-30k",
+        "position": "北京·五道口"
+    },
+    {
+        "companyName": "路行通",
+        "salary": "8k-12k",
+        "position": "成都·高新区"
+    },
+    {
+        "companyName": "电声营销",
+        "salary": "12k-18k",
+        "position": "广州·琶洲"
+    },
+    {
+        "companyName": "郑州赛欧思科技有限公司",
+        "salary": "7k-12k",
+        "position": "郑州·高新区"
+    },
+    {
+        "companyName": "看看智能",
+        "salary": "10k-18k",
+        "position": "上海·张江"
+    },
+    {
+        "companyName": "聚微",
+        "salary": "15k-22k",
+        "position": "北京·白石桥"
+    },
+    {
+        "companyName": "任子行",
+        "salary": "9k-13k",
+        "position": "武汉·鲁巷"
+    },
+    {
+        "companyName": "玺望网络科技",
+        "salary": "15k-20k",
+        "position": "深圳·田贝"
+    },
+    {
+        "companyName": "火石创造",
+        "salary": "15k-25k",
+        "position": "杭州·江南"
+    },
+    {
+        "companyName": "达内集团",
+        "salary": "15k-25k",
+        "position": "北京·大钟寺"
+    },
+    {
+        "companyName": "创互科技",
+        "salary": "25k-30k",
+        "position": "深圳·南油"
+    },
+    {
+        "companyName": "安杰瑞电子科技",
+        "salary": "8k-15k",
+        "position": "西安·高新技…"
+    },
+    {
+        "companyName": "鲸派数科",
+        "salary": "12k-15k",
+        "position": "上海·田林"
+    },
+    {
+        "companyName": "奇鸣咨询",
+        "salary": "18k-25k",
+        "position": "上海·四平路"
+    },
+    {
+        "companyName": "中科育软",
+        "salary": "10k-20k",
+        "position": "苏州·虎丘区"
+    },
+    {
+        "companyName": "锐思科集团",
+        "salary": "10k-15k",
+        "position": "重庆·渝北区"
+    },
+    {
+        "companyName": "金证股份",
+        "salary": "15k-17k",
+        "position": "北京·西城区"
+    },
+    {
+        "companyName": "智融集团",
+        "salary": "20k-40k",
+        "position": "北京·知春路"
+    },
+    {
+        "companyName": "小步网络",
+        "salary": "15k-30k",
+        "position": "深圳·西乡"
+    },
+    {
+        "companyName": "深圳思力科",
+        "salary": "12k-20k",
+        "position": "深圳·深圳湾"
+    },
+    {
+        "companyName": "海万科技",
+        "salary": "10k-20k",
+        "position": "深圳·购物公…"
+    },
+    {
+        "companyName": "银橙传媒",
+        "salary": "20k-25k",
+        "position": "上海·漕宝路"
+    },
+    {
+        "companyName": "微赛网络",
+        "salary": "10k-15k",
+        "position": "厦门·思明区"
+    },
+    {
+        "companyName": "书沸科技",
+        "salary": "12k-24k",
+        "position": "杭州·西湖区"
+    },
+    {
+        "companyName": "闪送",
+        "salary": "10k-20k",
+        "position": "北京·海淀区"
+    },
+    {
+        "companyName": "学堂在线",
+        "salary": "15k-30k",
+        "position": "北京·五道口"
+    },
+    {
+        "companyName": "融360",
+        "salary": "15k-30k",
+        "position": "北京·海淀区"
+    },
+    {
+        "companyName": "元一九鼎",
+        "salary": "15k-25k",
+        "position": "北京·望京"
+    },
+    {
+        "companyName": "广州好邻居网络科技有限公司",
+        "salary": "20k-30k",
+        "position": "广州·天河区"
+    },
+    {
+        "companyName": "中科育软",
+        "salary": "10k-20k",
+        "position": "苏州·虎丘区"
+    },
+    {
+        "companyName": "锐思科集团",
+        "salary": "10k-15k",
+        "position": "重庆·渝北区"
+    },
+    {
+        "companyName": "金证股份",
+        "salary": "15k-17k",
+        "position": "北京·西城区"
+    },
+    {
+        "companyName": "智融集团",
+        "salary": "20k-40k",
+        "position": "北京·知春路"
+    },
+    {
+        "companyName": "小步网络",
+        "salary": "15k-30k",
+        "position": "深圳·西乡"
+    },
+    {
+        "companyName": "深圳思力科",
+        "salary": "12k-20k",
+        "position": "深圳·深圳湾"
+    },
+    {
+        "companyName": "海万科技",
+        "salary": "10k-20k",
+        "position": "深圳·购物公…"
+    },
+    {
+        "companyName": "银橙传媒",
+        "salary": "20k-25k",
+        "position": "上海·漕宝路"
+    },
+    {
+        "companyName": "微赛网络",
+        "salary": "10k-15k",
+        "position": "厦门·思明区"
+    },
+    {
+        "companyName": "书沸科技",
+        "salary": "12k-24k",
+        "position": "杭州·西湖区"
+    },
+    {
+        "companyName": "闪送",
+        "salary": "10k-20k",
+        "position": "北京·海淀区"
+    },
+    {
+        "companyName": "学堂在线",
+        "salary": "15k-30k",
+        "position": "北京·五道口"
+    },
+    {
+        "companyName": "融360",
+        "salary": "15k-30k",
+        "position": "北京·海淀区"
+    },
+    {
+        "companyName": "元一九鼎",
+        "salary": "15k-25k",
+        "position": "北京·望京"
+    },
+    {
+        "companyName": "广州好邻居网络科技有限公司",
+        "salary": "20k-30k",
+        "position": "广州·天河区"
+    },
+    {
+        "companyName": "深圳思力科",
+        "salary": "12k-20k",
+        "position": "深圳·科技园"
+    },
+    {
+        "companyName": "棣南新宇",
+        "salary": "15k-20k",
+        "position": "北京·中关村"
+    },
+    {
+        "companyName": "海万科技",
+        "salary": "10k-16k",
+        "position": "上海·陆家嘴"
+    },
+    {
+        "companyName": "链家",
+        "salary": "50k-80k",
+        "position": "北京·西北旺"
+    },
+    {
+        "companyName": "智融集团",
+        "salary": "25k-40k",
+        "position": "北京·海淀区"
+    },
+    {
+        "companyName": "融360",
+        "salary": "30k-50k",
+        "position": "北京·中关村"
+    },
+    {
+        "companyName": "达内集团",
+        "salary": "15k-25k",
+        "position": "北京·大钟寺"
+    },
+    {
+        "companyName": "威海新蓝",
+        "salary": "6k-10k",
+        "position": "济南·高新区"
+    },
+    {
+        "companyName": "点数科技",
+        "salary": "5k-10k",
+        "position": "株洲·天元区"
+    },
+    {
+        "companyName": "Fordeal",
+        "salary": "25k-50k",
+        "position": "广州·琶洲"
+    },
+    {
+        "companyName": "策炬网络",
+        "salary": "25k-50k",
+        "position": "北京·朝外"
+    },
+    {
+        "companyName": "瑞翼",
+        "salary": "15k-20k",
+        "position": "苏州·独墅湖"
+    },
+    {
+        "companyName": "阳光产险信保事业部",
+        "salary": "18k-36k",
+        "position": "北京·朝外"
+    },
+    {
+        "companyName": "Jcubing",
+        "salary": "9k-18k",
+        "position": "杭州·北干"
+    },
+    {
+        "companyName": "无声",
+        "salary": "10k-12k",
+        "position": "成都·石羊"
+    },
+    {
+        "companyName": "达内集团",
+        "salary": "15k-30k",
+        "position": "北京·皂君庙"
+    },
+    {
+        "companyName": "北京中铁信",
+        "salary": "18k-28k",
+        "position": "北京·海淀区"
+    },
+    {
+        "companyName": "币盈科技",
+        "salary": "20k-35k",
+        "position": "北京·朝外"
+    },
+    {
+        "companyName": "成都快师傅科技有限公司",
+        "salary": "15k-25k",
+        "position": "成都·高新区"
+    },
+    {
+        "companyName": "海万科技",
+        "salary": "8k-16k",
+        "position": "上海·梅园"
+    },
+    {
+        "companyName": "知乎",
+        "salary": "25k-40k",
+        "position": "北京·五道口"
+    },
+    {
+        "companyName": "上海哈杜科技有限公司",
+        "salary": "15k-25k",
+        "position": "杭州·浦沿"
+    },
+    {
+        "companyName": "AppNana",
+        "salary": "16k-20k",
+        "position": "天津·和平路"
+    },
+    {
+        "companyName": "北京理享家",
+        "salary": "15k-25k",
+        "position": "北京·王府井"
+    },
+    {
+        "companyName": "智通博瑞",
+        "salary": "18k-25k",
+        "position": "北京·海淀区"
+    },
+    {
+        "companyName": "深圳澳谷智能科技有限公司",
+        "salary": "18k-32k",
+        "position": "深圳·上梅林"
+    },
+    {
+        "companyName": "联想",
+        "salary": "30k-50k",
+        "position": "北京·西北旺"
+    },
+    {
+        "companyName": "新华社瞭望智库",
+        "salary": "10k-18k",
+        "position": "北京·永定门"
+    },
+    {
+        "companyName": "趣头条",
+        "salary": "20k-35k",
+        "position": "北京·苏州街"
+    },
+    {
+        "companyName": "图灵实验室",
+        "salary": "7K-14K",
+        "position": "郑州·高新区"
+    },
+    {
+        "companyName": "尚云技术",
+        "salary": "12k-15k",
+        "position": "深圳·科技园"
+    },
+    {
+        "companyName": "网易",
+        "salary": "15k-30k",
+        "position": "广州·天河区"
+    },
+    {
+        "companyName": "映客",
+        "salary": "30k-50k",
+        "position": "北京·望京"
+    },
+    {
+        "companyName": "信息技术、软件开发、测试及应用",
+        "salary": "8k-15k",
+        "position": "重庆·兴隆"
+    },
+    {
+        "companyName": "视野金融",
+        "salary": "15k-25k",
+        "position": "北京·学院路"
+    },
+    {
+        "companyName": "达内集团",
+        "salary": "18k-30k",
+        "position": "北京·大钟寺"
+    },
+    {
+        "companyName": "百融云创",
+        "salary": "15k-30k",
+        "position": "北京·中关村"
+    },
+    {
+        "companyName": "迅蚁网络",
+        "salary": "10k-18k",
+        "position": "杭州·仓前"
+    },
+    {
+        "companyName": "德利",
+        "salary": "12k-24k",
+        "position": "广州"
+    },
+    {
+        "companyName": "编程猫",
+        "salary": "8k-15k",
+        "position": "北京·安定门"
+    },
+    {
+        "companyName": "芽芽",
+        "salary": "14k-24k",
+        "position": "北京·学院路"
+    },
+    {
+        "companyName": "佰锐科技",
+        "salary": "12k-20k",
+        "position": "广州·天园"
+    },
+    {
+        "companyName": "深圳思力科",
+        "salary": "12k-24k",
+        "position": "深圳·科技园"
+    },
+    {
+        "companyName": "东土科技",
+        "salary": "20k-40k",
+        "position": "北京·八大处"
+    },
+    {
+        "companyName": "汇游科技",
+        "salary": "15k-20k",
+        "position": "北京·北苑"
+    },
+    {
+        "companyName": "奥德塔",
+        "salary": "12k-18k",
+        "position": "北京·西三旗"
+    },
+    {
+        "companyName": "Rela热拉-多元女性社区",
+        "salary": "15k-30k",
+        "position": "上海·四川北…"
+    },
+    {
+        "companyName": "微诺",
+        "salary": "15k-30k",
+        "position": "深圳·新安"
+    },
+    {
+        "companyName": "达达-京东到家",
+        "salary": "20k-35k",
+        "position": "上海·平凉路"
+    },
+    {
+        "companyName": "招商银行信用卡中心",
+        "salary": "30k-50k",
+        "position": "上海·浦东新…"
+    },
+    {
+        "companyName": "平安科技",
+        "salary": "15k-30k",
+        "position": "深圳·科技园"
+    },
+    {
+        "companyName": "Rokid",
+        "salary": "20k-40k",
+        "position": "杭州·西湖区"
+    },
+    {
+        "companyName": "小步网络",
+        "salary": "18k-30k",
+        "position": "深圳·西乡"
+    },
+    {
+        "companyName": "欢聚时代（YY Inc）",
+        "salary": "25k-50k",
+        "position": "广州·番禺区"
+    },
+    {
+        "companyName": "Lazada",
+        "salary": "20k-40k",
+        "position": "深圳·深圳湾"
+    },
+    {
+        "companyName": "旷视MEGVII",
+        "salary": "25k-50k",
+        "position": "北京·北京大…"
+    },
+    {
+        "companyName": "凤凰网",
+        "salary": "20k-35k",
+        "position": "北京·望京"
+    },
+    {
+        "companyName": "Qtum",
+        "salary": "20k-40k",
+        "position": "上海·镇宁路"
+    },
+    {
+        "companyName": "极光",
+        "salary": "20k-35k",
+        "position": "深圳·南山区"
+    },
+    {
+        "companyName": "车好多集团",
+        "salary": "20k-40k",
+        "position": "北京·上地"
+    },
+    {
+        "companyName": "欢聚时代（YY Inc）",
+        "salary": "25k-50k",
+        "position": "广州·番禺区"
+    },
+    {
+        "companyName": "平安科技",
+        "salary": "20k-40k",
+        "position": "深圳·科技园"
+    },
+    {
+        "companyName": "商汤科技",
+        "salary": "20k-40k",
+        "position": "北京·海淀区"
+    },
+    {
+        "companyName": "车好多集团",
+        "salary": "30k-60k",
+        "position": "北京·上地"
+    },
+    {
+        "companyName": "Fordeal",
+        "salary": "20k-30k",
+        "position": "广州·海珠区"
+    },
+    {
+        "companyName": "杉岩数据",
+        "salary": "10k-20k",
+        "position": "深圳·南山区"
+    },
+    {
+        "companyName": "好未来",
+        "salary": "20k-40k",
+        "position": "北京·中关村"
+    },
+    {
+        "companyName": "AfterShip",
+        "salary": "30k-50k",
+        "position": "深圳·南山区"
+    },
+    {
+        "companyName": "拼多多",
+        "salary": "25k-50k",
+        "position": "上海·长宁区"
+    },
+    {
+        "companyName": "婚礼纪",
+        "salary": "18k-32k",
+        "position": "杭州·西溪"
+    },
+    {
+        "companyName": "达达-京东到家",
+        "salary": "15k-25k",
+        "position": "上海·平凉路"
+    },
+    {
+        "companyName": "哔哩哔哩",
+        "salary": "35k-50k",
+        "position": "上海·复旦大…"
+    },
+    {
+        "companyName": "明略科技集团",
+        "salary": "15k-30k",
+        "position": "北京·望京"
+    },
+    {
+        "companyName": "君海游戏",
+        "salary": "10k-20k",
+        "position": "广州·琶洲"
+    },
+    {
+        "companyName": "喜马拉雅",
+        "salary": "15k-30k",
+        "position": "上海·张江"
+    },
+    {
+        "companyName": "欢聚时代（YY Inc）",
+        "salary": "20k-40k",
+        "position": "广州·番禺区"
+    },
+    {
+        "companyName": "车好多集团",
+        "salary": "25k-50k",
+        "position": "北京·酒仙桥"
+    },
+    {
+        "companyName": "哔哩哔哩",
+        "salary": "35k-50k",
+        "position": "上海·复旦大…"
+    },
+    {
+        "companyName": "拼多多",
+        "salary": "20k-40k",
+        "position": "上海·天山路"
+    },
+    {
+        "companyName": "即刻",
+        "salary": "13k-20k",
+        "position": "上海·五角场"
+    },
+    {
+        "companyName": "K2DATA",
+        "salary": "15k-30k",
+        "position": "北京·海淀区"
+    },
+    {
+        "companyName": "北京晟政科技有限公司",
+        "salary": "15k-25k",
+        "position": "北京·知春路"
+    },
+    {
+        "companyName": "海拍客",
+        "salary": "20k-30k",
+        "position": "杭州·西湖区"
+    },
+    {
+        "companyName": "紫光云",
+        "salary": "12k-20k",
+        "position": "成都·双流县"
+    },
+    {
+        "companyName": "呆萝卜",
+        "salary": "20k-35k",
+        "position": "杭州·拱墅区"
+    },
+    {
+        "companyName": "联元智能科技",
+        "salary": "12k-20k",
+        "position": "上海·曹杨"
+    },
+    {
+        "companyName": "旷视MEGVII",
+        "salary": "15k-25k",
+        "position": "北京·海淀区"
+    },
+    {
+        "companyName": "盈盈集团",
+        "salary": "20k-35k",
+        "position": "杭州·三塘"
+    },
+    {
+        "companyName": "OPPO",
+        "salary": "20k-40k",
+        "position": "深圳·南山区"
+    },
+    {
+        "companyName": "达观数据",
+        "salary": "20k-30k",
+        "position": "成都·武侯区"
+    },
+    {
+        "companyName": "车好多集团",
+        "salary": "25k-50k",
+        "position": "北京·东坝"
+    },
+    {
+        "companyName": "拼多多",
+        "salary": "25k-50k",
+        "position": "上海·长宁区"
+    },
+    {
+        "companyName": "紫光云",
+        "salary": "12k-18k",
+        "position": "天津·滨海新…"
+    },
+    {
+        "companyName": "呆萝卜",
+        "salary": "25k-45k",
+        "position": "杭州·拱墅区"
+    },
+    {
+        "companyName": "陆金所",
+        "salary": "13k-26k",
+        "position": "上海·浦东新…"
+    },
+    {
+        "companyName": "一亩田",
+        "salary": "20k-35k",
+        "position": "北京·西三旗"
+    },
+    {
+        "companyName": "达达-京东到家",
+        "salary": "20k-30k",
+        "position": "上海·平凉路"
+    },
+    {
+        "companyName": "阿里巴巴-高德",
+        "salary": "20k-40k",
+        "position": "北京·双井"
+    },
+    {
+        "companyName": "商汤科技",
+        "salary": "25k-50k",
+        "position": "北京·海淀区"
+    },
+    {
+        "companyName": "BLUE",
+        "salary": "20k-30k",
+        "position": "深圳·深圳湾"
+    },
+    {
+        "companyName": "拉勾网",
+        "salary": "18k-36k",
+        "position": "北京·中关村"
+    },
+    {
+        "companyName": "杉岩数据",
+        "salary": "15k-30k",
+        "position": "深圳·南山区"
+    },
+    {
+        "companyName": "印象笔记",
+        "salary": "15k-30k",
+        "position": "北京·朝阳区"
+    },
+    {
+        "companyName": "旷视MEGVII",
+        "salary": "20k-35k",
+        "position": "北京·北京大…"
+    },
+    {
+        "companyName": "收钱吧",
+        "salary": "12k-24k",
+        "position": "苏州·工业园…"
+    },
+    {
+        "companyName": "拼多多",
+        "salary": "30k-60k",
+        "position": "上海·长宁区"
+    },
+    {
+        "companyName": "商汤科技",
+        "salary": "20k-40k",
+        "position": "深圳·前海"
+    },
+    {
+        "companyName": "阿里巴巴-高德",
+        "salary": "20k-40k",
+        "position": "北京·双井"
+    },
+    {
+        "companyName": "OPPO",
+        "salary": "15k-30k",
+        "position": "深圳·十六铺"
+    },
+    {
+        "companyName": "华卓科技",
+        "salary": "15k-25k",
+        "position": "杭州·东新路"
+    },
+    {
+        "companyName": "同盾科技",
+        "salary": "20k-35k",
+        "position": "杭州·仓前"
+    },
+    {
+        "companyName": "浙大中控信息",
+        "salary": "10k-20k",
+        "position": "杭州·滨江区"
+    },
+    {
+        "companyName": "绿盟科技",
+        "salary": "10k-20k",
+        "position": "北京·紫竹桥"
+    },
+    {
+        "companyName": "拉勾网",
+        "salary": "18k-36k",
+        "position": "北京·中关村"
+    },
+    {
+        "companyName": "贝壳金服",
+        "salary": "20k-30k",
+        "position": "上海·五里桥"
+    },
+    {
+        "companyName": "UCloud",
+        "salary": "20k-40k",
+        "position": "上海·杨浦区"
+    },
+    {
+        "companyName": "BBD",
+        "salary": "15k-25k",
+        "position": "成都·高新区"
+    },
+    {
+        "companyName": "千寻位置",
+        "salary": "15k-30k",
+        "position": "上海·杨浦区"
+    },
+    {
+        "companyName": "影诺医疗",
+        "salary": "15k-25k",
+        "position": "厦门·湖里区"
+    },
+    {
+        "companyName": "AfterShip",
+        "salary": "20k-40k",
+        "position": "深圳·南山区"
+    },
+    {
+        "companyName": "商汤科技",
+        "salary": "20k-40k",
+        "position": "北京·五道口"
+    },
+    {
+        "companyName": "阿里巴巴-高德",
+        "salary": "20k-40k",
+        "position": "北京·双井"
+    },
+    {
+        "companyName": "OPPO",
+        "salary": "20k-35k",
+        "position": "深圳·后海"
+    },
+    {
+        "companyName": "BBD",
+        "salary": "10k-17k",
+        "position": "北京·海淀区"
+    },
+    {
+        "companyName": "拉勾网",
+        "salary": "15k-30k",
+        "position": "北京·中关村"
+    },
+    {
+        "companyName": "北京安为科技有限公司",
+        "salary": "15k-25k",
+        "position": "北京·香山"
+    },
+    {
+        "companyName": "挖财",
+        "salary": "20k-30k",
+        "position": "上海·浦东新…"
+    },
+    {
+        "companyName": "金蝶",
+        "salary": "12k-24k",
+        "position": "深圳·南山区"
+    },
+    {
+        "companyName": "欢聚时代（YY Inc）",
+        "salary": "30k-50k",
+        "position": "广州·番禺区"
+    },
+    {
+        "companyName": "商米科技",
+        "salary": "15k-30k",
+        "position": "上海·复旦大…"
+    },
+    {
+        "companyName": "车好多集团",
+        "salary": "25k-50k",
+        "position": "北京·望京"
+    },
+    {
+        "companyName": "快看漫画",
+        "salary": "20k-40k",
+        "position": "北京·小关"
+    },
+    {
+        "companyName": "UCloud",
+        "salary": "20k-40k",
+        "position": "北京·西直门"
+    },
+    {
+        "companyName": "旷视MEGVII",
+        "salary": "25k-50k",
+        "position": "北京·北京大…"
+    },
+    {
+        "companyName": "声智科技",
+        "salary": "15k-30k",
+        "position": "北京·海淀区"
+    },
+    {
+        "companyName": "阿里巴巴-高德",
+        "salary": "20k-40k",
+        "position": "北京·双井"
+    },
+    {
+        "companyName": "快仓智能仓储",
+        "salary": "10k-20k",
+        "position": "上海·虹梅路"
+    },
+    {
+        "companyName": "Lazada",
+        "salary": "20k-40k",
+        "position": "深圳·深圳湾"
+    },
+    {
+        "companyName": "自如网",
+        "salary": "16k-30k",
+        "position": "北京·朝阳区"
+    },
+    {
+        "companyName": "旷视MEGVII",
+        "salary": "20k-40k",
+        "position": "北京·北京大…"
+    },
+    {
+        "companyName": "上海驰勤",
+        "salary": "14k-19k",
+        "position": "上海·塘桥"
+    },
+    {
+        "companyName": "云间网络",
+        "salary": "12k-20k",
+        "position": "东莞·东莞市…"
+    },
+    {
+        "companyName": "百乘金科集团",
+        "salary": "20k-30k",
+        "position": "北京·大屯"
+    },
+    {
+        "companyName": "探探",
+        "salary": "25k-50k",
+        "position": "北京·建国门"
+    },
+    {
+        "companyName": "BitBays",
+        "salary": "15k-30k",
+        "position": "北京·中关村"
+    },
+    {
+        "companyName": "即刻",
+        "salary": "25k-35k",
+        "position": "上海·杨浦区"
+    },
+    {
+        "companyName": "收钱吧",
+        "salary": "15k-30k",
+        "position": "上海·金沙江…"
+    },
+    {
+        "companyName": "vivo",
+        "salary": "25k-45k",
+        "position": "深圳·新安"
+    },
+    {
+        "companyName": "车好多集团",
+        "salary": "20k-40k",
+        "position": "北京·上地"
+    },
+    {
+        "companyName": "企朋",
+        "salary": "12k-18k",
+        "position": "成都·高新区"
+    },
+    {
+        "companyName": "收钱吧",
+        "salary": "20k-40k",
+        "position": "上海·长风公…"
+    },
+    {
+        "companyName": "企朋",
+        "salary": "15k-30k",
+        "position": "杭州·西湖区"
+    },
+    {
+        "companyName": "宝高科技",
+        "salary": "30k-40k",
+        "position": "海外"
+    },
+    {
+        "companyName": "希望金科",
+        "salary": "15k-25k",
+        "position": "成都·锦江区"
+    },
+    {
+        "companyName": "木瓜移动",
+        "salary": "25k-35k",
+        "position": "北京·学院路"
+    },
+    {
+        "companyName": "拓阔科技",
+        "salary": "20k-30k",
+        "position": "深圳·坂田"
+    },
+    {
+        "companyName": "天壤智能",
+        "salary": "15k-30k",
+        "position": "杭州·西溪"
+    },
+    {
+        "companyName": "君林科技",
+        "salary": "20k-30k",
+        "position": "北京·望京"
+    },
+    {
+        "companyName": "虎扑",
+        "salary": "18k-25k",
+        "position": "上海·虹口足…"
+    },
+    {
+        "companyName": "复临科技",
+        "salary": "15k-25k",
+        "position": "深圳·南山区"
+    },
+    {
+        "companyName": "芒果电单车",
+        "salary": "18k-35k",
+        "position": "北京·望京"
+    },
+    {
+        "companyName": "Lazada",
+        "salary": "20k-40k",
+        "position": "深圳·深圳湾"
+    },
+    {
+        "companyName": "达达-京东到家",
+        "salary": "25k-50k",
+        "position": "北京·亦庄"
+    },
+    {
+        "companyName": "安恒信息",
+        "salary": "18k-35k",
+        "position": "杭州·西兴"
+    },
+    {
+        "companyName": "依图科技",
+        "salary": "17k-34k",
+        "position": "上海·长宁区"
+    }
+]
